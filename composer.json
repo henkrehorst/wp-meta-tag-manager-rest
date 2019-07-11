@@ -1,0 +1,16 @@
+{
+  "name": "henkrehorst/meta-tag-manager-rest",
+  "description": "metatag rest field for meta tag manager plugin",
+  "type": "wordpress-plugin",
+  "keywords": [
+    "wordpress"
+  ],
+  "authors": [
+    {
+      "name": "Henk Rehorst",
+      "email": "info@henkrehorst.nl",
+      "homepage": "https://henkrehorst.nl",
+      "role": "Developer"
+    }
+  ]
+}
