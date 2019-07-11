@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Meta Tag Manager Rest
-Plugin URI: https://github.com/wp-meta-tag-manager-rest
+Plugin URI: https://github.com/henkrehorst/wp-meta-tag-manager-rest
 Description: Rest extension for wordpress meta tag manager plugin
 Author: Henk Rehorst
 Version: 1.0
